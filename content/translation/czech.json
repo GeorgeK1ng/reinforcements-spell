@@ -1,0 +1,11 @@
+{
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.selectTownTitle": "Posily",
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.selectTownDescription" : "Vyber město, odkud chceš povolat posily",
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.garrisonTitle" : "Převzít posily",
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.casterInTown" : "Posily nelze seslat, když je hrdina na návštěvě ve městě.",
+	"spell.reinforcements-spell.reinforcements.description.advanced" : "{Pokročilé posily}\r\n\r\nPřivolá jednotky z posádky libovolného spřáteleného města.\r\n\r\nLze seslat třikrát denně.\r\n",
+	"spell.reinforcements-spell.reinforcements.description.basic" : "{Základní posily}\r\n\r\nPřivolá jednotky z posádky nejbližšího spřáteleného města.\r\n\r\nLze seslat dvakrát denně.\r\n",
+	"spell.reinforcements-spell.reinforcements.description.expert" : "{Expertní posily}\r\n\r\nPřivolá jednotky z posádky libovolného spřáteleného města.\r\n\r\nLze seslat čtyřikrát denně.\r\n",
+	"spell.reinforcements-spell.reinforcements.description.none" : "{Posily}\r\n\r\nPřivolá jednotky z posádky nejbližšího spřáteleného města jednou denně.\r\n",
+	"spell.reinforcements-spell.reinforcements.name" : "Posily"
+}

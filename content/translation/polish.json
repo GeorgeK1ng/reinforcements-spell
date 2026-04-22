@@ -1,0 +1,11 @@
+{
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.selectTownTitle" : "Posiłki",
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.selectTownDescription" : "Wybierz miasto, z którego chcesz zebrać posiłki.",
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.garrisonTitle" : "Pobierz posiłki",
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.casterInTown" : "Nie można rzucić zaklęcia Posiłki, gdy bohater przebywa w mieście.",
+	"spell.reinforcements-spell.reinforcements.description.none" : "{Posiłki}\r\n\r\nPrzywołuje jednostki z garnizonu najbliższego sprzymierzonego miasta raz dziennie.\r\n",
+	"spell.reinforcements-spell.reinforcements.description.basic" : "{Podstawowe posiłki}\r\n\r\nPrzywołuje jednostki z garnizonu najbliższego sprzymierzonego miasta.\r\n\r\nMoże być rzucone dwa razy dziennie.\r\n",
+	"spell.reinforcements-spell.reinforcements.description.advanced" : "{Zaawansowane posiłki}\r\n\r\nPrzywołuje jednostki z garnizonu dowolnego sprzymierzonego miasta.\r\n\r\nMoże być rzucone trzy razy dziennie.\r\n",
+	"spell.reinforcements-spell.reinforcements.description.expert" : "{Mistrzowskie posiłki}\r\n\r\nPrzywołuje jednostki z garnizonu dowolnego sprzymierzonego miasta.\r\n\r\nMoże być rzucone cztery razy dziennie.\r\n",
+	"spell.reinforcements-spell.reinforcements.name" : "Posiłki"
+}
