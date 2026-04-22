@@ -1,11 +1,11 @@
 {
-    "spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.selectTownTitle" : "召唤支援",
-    "spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.selectTownDescription" : "选择一座城镇以调集支援部队，相当于对城镇的驻军进行远程交换。",
-    "spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.garrisonTitle" : "召唤支援",
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.selectTownTitle" : "召唤支援",
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.selectTownDescription" : "选择一座城镇以调集支援部队，相当于对城镇的驻军进行远程交换。",
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.garrisonTitle" : "召唤支援",
 	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.casterInTown" : "当英雄驻留在城镇中时，无法施放“召唤支援”。",
-    "spell.reinforcements-spell.reinforcements.description.none" : "{召唤支援}\r\n\r\n从最近的友方城镇驻军中召唤部队。相当于对城镇的驻军进行远程交换。\r\n\r\n每天可施放一次。\r\n",
-    "spell.reinforcements-spell.reinforcements.description.basic" : "{初级召唤支援}\r\n\r\n从最近的友方城镇驻军中召唤部队。相当于对城镇的驻军进行远程交换。\r\n\r\n每天可施放两次。\r\n",
-    "spell.reinforcements-spell.reinforcements.description.advanced" : "{中级召唤支援}\r\n\r\n从任意友方城镇驻军中召唤部队。相当于对城镇的驻军进行远程交换。\r\n\r\n每天可施放三次。\r\n",
-    "spell.reinforcements-spell.reinforcements.description.expert" : "{高级召唤支援}\r\n\r\n从任意友方城镇驻军中召唤部队。相当于对城镇的驻军进行远程交换。\r\n\r\n每天可施放四次。\r\n",
-    "spell.reinforcements-spell.reinforcements.name" : "支援部队"
+	"spell.reinforcements-spell.reinforcements.description.none" : "{召唤支援}\r\n\r\n从最近的友方城镇驻军中召唤部队。相当于对城镇的驻军进行远程交换。\r\n\r\n每天可施放一次。\r\n",
+	"spell.reinforcements-spell.reinforcements.description.basic" : "{初级召唤支援}\r\n\r\n从最近的友方城镇驻军中召唤部队。相当于对城镇的驻军进行远程交换。\r\n\r\n每天可施放两次。\r\n",
+	"spell.reinforcements-spell.reinforcements.description.advanced" : "{中级召唤支援}\r\n\r\n从任意友方城镇驻军中召唤部队。相当于对城镇的驻军进行远程交换。\r\n\r\n每天可施放三次。\r\n",
+	"spell.reinforcements-spell.reinforcements.description.expert" : "{高级召唤支援}\r\n\r\n从任意友方城镇驻军中召唤部队。相当于对城镇的驻军进行远程交换。\r\n\r\n每天可施放四次。\r\n",
+	"spell.reinforcements-spell.reinforcements.name" : "支援部队"
 }
