@@ -7,5 +7,7 @@
 	"spell.reinforcements-spell.reinforcements.description.basic" : "{Basic Reinforcements}\r\n\r\nSummons creatures from the garrison of the nearest friendly town.\r\n\r\nMay be cast twice per day.\r\n",
 	"spell.reinforcements-spell.reinforcements.description.expert" : "{Expert Reinforcements}\r\n\r\nSummons creatures from the garrison of any friendly town.\r\n\r\nMay be cast four times per day.\r\n",
 	"spell.reinforcements-spell.reinforcements.description.none" : "{Reinforcements}\r\n\r\nSummons creatures from the garrison of the nearest friendly town once per day.\r\n",
-	"spell.reinforcements-spell.reinforcements.name" : "Reinforcements"
+	"spell.reinforcements-spell.reinforcements.name" : "Reinforcements",
+	"mod.name" : "Reinforcements",
+	"mod.description" : "Allows the hero to summon creatures from town garrisons."
 }

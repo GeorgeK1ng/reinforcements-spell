@@ -7,5 +7,7 @@
 	"spell.reinforcements-spell.reinforcements.description.basic": "{Podstawowe posiłki}\r\n\r\nPrzywołuje jednostki z garnizonu najbliższego sprzymierzonego miasta.\r\n\r\nMoże być rzucone dwa razy dziennie.\r\n",
 	"spell.reinforcements-spell.reinforcements.description.advanced": "{Zaawansowane posiłki}\r\n\r\nPrzywołuje jednostki z garnizonu dowolnego sprzymierzonego miasta.\r\n\r\nMoże być rzucone trzy razy dziennie.\r\n",
 	"spell.reinforcements-spell.reinforcements.description.expert": "{Mistrzowskie posiłki}\r\n\r\nPrzywołuje jednostki z garnizonu dowolnego sprzymierzonego miasta.\r\n\r\nMoże być rzucone cztery razy dziennie.\r\n",
-	"spell.reinforcements-spell.reinforcements.name": "Posiłki"
+	"spell.reinforcements-spell.reinforcements.name": "Posiłki",
+	"mod.name": "Posiłki",
+	"mod.description": "Pozwala bohaterowi przywoływać jednostki z garnizonów miast."
 }
