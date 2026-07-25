@@ -45,5 +45,10 @@
 		"translations" : [
 			"translation/polish.json"
 		]
+	},
+	"ukrainian" : {
+		"translations" : [
+			"translation/ukrainian.json"
+		]
 	}
 }
