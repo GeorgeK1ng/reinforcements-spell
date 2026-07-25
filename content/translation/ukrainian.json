@@ -1,1 +1,13 @@
-{}
+{
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.casterInTown": "Неможливо викликати підкріплення, поки герой перебуває в місті.",
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.garrisonTitle": "Отримати Підкріплення",
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.selectTownDescription": "Оберіть місто з якого отримати підкріплення",
+	"spell.reinforcements-spell.reinforcements.adventureEffect.reinforcements.selectTownTitle": "Підкріплення",
+	"spell.reinforcements-spell.reinforcements.description.advanced": "{Підкріплення 2-го рівня}\n\nВикликає істот з гарнізону будь-якого дружнього міста\n\nМоже бути накладено тричі на день.\n",
+	"spell.reinforcements-spell.reinforcements.description.basic": "{Підкріплення 1-го рівня}\n\nВикликає істот з гарнізону найближчого дружнього міста\n\nМоже бути накладено двічі на день.\n",
+	"spell.reinforcements-spell.reinforcements.description.expert": "{Підкріплення 3-го рівня}\n\nВикликає істот з гарнізону будь-якого дружнього міста\n\nМоже бути накладено чотири рази на день.\n",
+	"spell.reinforcements-spell.reinforcements.description.none": "{Підкріплення}\n\nВикликає істот з гарнізону будь-якого дружнього міста один раз на день.\n",
+	"spell.reinforcements-spell.reinforcements.name": "Підкріплення",
+	"mod.name": "Підкріплення",
+	"mod.description": "Дозволяє герою викликати істот із гарнізонів міст."
+}
